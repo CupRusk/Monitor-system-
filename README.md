@@ -11,4 +11,4 @@
 ## Запуск
 
 ```bash
-python monitor.py
+python main.py
